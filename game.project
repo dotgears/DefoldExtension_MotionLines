@@ -1,0 +1,21 @@
+[bootstrap]
+main_collection = /main/main.collectionc
+render = /builtins/render/default.renderc
+
+[script]
+shared_state = 1
+
+[display]
+width = 960
+height = 640
+
+[android]
+input_method = HiddenInputField
+
+[project]
+title = My Project
+dependencies = https://github.com/dotgears/DrawPixels/archive/master.zip
+
+[library]
+include_dirs = /motion_lines
+

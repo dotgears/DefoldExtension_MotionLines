@@ -1,0 +1,4 @@
+tile_set: "/main/assets/buffer_1024.atlas"
+default_animation: "buffer1024"
+material: "/builtins/materials/sprite.material"
+blend_mode: BLEND_MODE_ALPHA
